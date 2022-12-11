@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "progress_bar"
+name = "rusty_progression"
 version = "0.1.0"
